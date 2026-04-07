@@ -106590,7 +106590,8 @@
 {
 "id": 4,
 "text": {
-"fr": "si tu es arrivé jusqu'à moi c'est que tu as compris qui était le meurtrier "
+"fr": "si tu es arrivé jusqu'à moi c'est que tu as compris qui était le meurtrier ",
+"en": "si tu es arrivé jusqu'à moi c'est que tu as compris qui était le meurtrier "
 },
 "voice": {
 "fr": [
@@ -106640,7 +106641,8 @@
 {
 "id": 7,
 "text": {
-"fr": "mais arriveras tu a m'arreter ? "
+"fr": "mais arriveras tu a m'arreter ? ",
+"en": "mais arriveras tu a m'arreter ? "
 },
 "voice": {
 "fr": [
@@ -106693,7 +106695,7 @@
 }
 ]
 },
-"nextID": 8
+"nextID": 9
 }
 }
 ],
@@ -116368,15 +116370,15 @@
 "cn": "ENGLISH.agv"
 },
 "video": {
-"en": "C_PIEING-VIDEO",
-"fr": "C_PIEING-VIDEO",
-"de": "C_PIEING-VIDEO",
-"it": "C_PIEING-VIDEO",
+"en": "ASH_VS_GIOVANNI (1)",
+"fr": "ASH_VS_GIOVANNI (1)",
+"de": "ASH_VS_GIOVANNI (1)",
+"it": "ASH_VS_GIOVANNI (1)",
 "ja": "C_PIEING-VIDEO",
 "ko": "C_PIEING-VIDEO",
-"ru": "C_PIEING-VIDEO",
-"cn": "C_PIEING-VIDEO",
-"tw": "C_PIEING-VIDEO"
+"ru": "ASH_VS_GIOVANNI (1)",
+"cn": "ASH_VS_GIOVANNI (1)",
+"tw": "ASH_VS_GIOVANNI (1)"
 },
 "properties": {
 "skip": "None"
@@ -120171,6 +120173,8 @@
 "graph": {
 "board": {
 "nextid": 46,
+"x": -214,
+"y": 4,
 "boxes": [
 {
 "type": 257,
@@ -120275,7 +120279,7 @@
 ]
 }
 ],
-"cinematic": "C_GIOVANNI"
+"cinematic": "C_PIEING"
 },
 {
 "type": 258,
